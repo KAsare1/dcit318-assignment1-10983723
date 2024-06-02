@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asare\\dcit318-assignment1-10983723\\GradeCalculator\\GradeCalculator.csproj": {}
+    "C:\\Users\\asare\\dcit318-assignment1-10983723\\Triangle Type Identifier\\Triangle Type Identifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asare\\dcit318-assignment1-10983723\\GradeCalculator\\GradeCalculator.csproj": {
+    "C:\\Users\\asare\\dcit318-assignment1-10983723\\Triangle Type Identifier\\Triangle Type Identifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asare\\dcit318-assignment1-10983723\\GradeCalculator\\GradeCalculator.csproj",
-        "projectName": "GradeCalculator",
-        "projectPath": "C:\\Users\\asare\\dcit318-assignment1-10983723\\GradeCalculator\\GradeCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\asare\\dcit318-assignment1-10983723\\Triangle Type Identifier\\Triangle Type Identifier.csproj",
+        "projectName": "Triangle Type Identifier",
+        "projectPath": "C:\\Users\\asare\\dcit318-assignment1-10983723\\Triangle Type Identifier\\Triangle Type Identifier.csproj",
         "packagesPath": "C:\\Users\\asare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asare\\dcit318-assignment1-10983723\\GradeCalculator\\obj\\",
+        "outputPath": "C:\\Users\\asare\\dcit318-assignment1-10983723\\Triangle Type Identifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asare\\AppData\\Roaming\\NuGet\\NuGet.Config",
